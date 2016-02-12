@@ -1,10 +1,12 @@
 For more indepth information please click on following URL:
-https://www.packtpub.com/application-development/swift-2-example
+https://www.packtpub.com/application-development/mastering-clojure
 
 Files required to perform code-testing:	
 	 _______________________________________________________________________________________________
-	|Chapter Number|	Software required (With version)|	Hardware specifications	OS required		| 
-	|	1		   |		Xcode 7.1					|	Apple Computer with	OS X El Capitan     |
-	|______________|____________________________________|___________________________________________|
-	
-	For this you need a Apple system running latest Mac OS.	
+Hardware requirements:
+ 
+Intel Core 2 Duo or AMD Athlon	Intel Core i5 or AMD FX	   
+2 GB	4 GB	 
+
+Software requirements:
+Leiningen
